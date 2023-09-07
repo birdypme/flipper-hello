@@ -12,3 +12,11 @@ python -m venv .venv
 python -m pip install pip setuptools wheel --upgrade
 pip install -r requirements.txt
 ```
+
+## Commands
+
+```powershell
+ufbt lint
+ufbt format
+ufbt launch
+```
